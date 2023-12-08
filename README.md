@@ -114,7 +114,7 @@ Step 5: How long would you like the event to last
 
 Step 6 Confirmation: Ensure the information is correctly setup as you would like
 
-![App Screenshot](https://github.com/MrNiceGuy0903/linkBot/blob/main/Images/Private-Confiramtion.jpg)
+![App Screenshot](https://github.com/MrNiceGuy0903/linkBot/blob/main/Images/Private-Confirmation.jpg)
 
 Step 7: Event Created
 Private:
