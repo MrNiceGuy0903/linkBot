@@ -27,16 +27,16 @@ A bot for Hosting Lovense Orgy's And Posting links to control lovense toys in Di
  - using the command "/linkbot-setup-channel-to-post" and selecting the channel in your server from the drop down list
 
 #### Setup & edit Roles That may be mentioned/control the toy
-- Use the command "/linkbot-add-playrole" and select a the Role
+- Use the command "/linkbot-add-playrole" and select a Role
 - A list of roles may by retrieved by using "/linkbot-list-playroles"
-- An unwated role may be removed by using "/linkbot-remove-playrole"
+- An unwanted role may be removed by using "/linkbot-remove-playrole"
 
 ### Recomended Setup Steps
 #### setup a History Retrieval Password  
 - "/Linkbot-set-password"
                 Due to the history of abuse of links between people - we have added a history option for administrators- This option is sensitive and requires extra permissions to run, You must be an admin to request the history and provide the password setup in this step
 #### Optional Setup Steps
-- The bot allows you to set a required for Posting a link - This is to allow the server administrator to enforce verification, or limit posters in anyways they so desire.
+- The bot allows you to set a required for Posting a link - This is to allow the server administrator to enforce verification, or limit posters in any way they so desire.
                          
 
     
@@ -66,7 +66,7 @@ Anonymous Post:
 
 "/create-event"
 Required Item "Trigger Word"
- This is the string of chars that when seen will trigger the Orgy to begin.  Then selection begins
+ This is the string of characters that when seen will trigger the Orgy to begin.  Then selection begins
 
 
 #### Step 1: What Kind of Event would you like to have private (just you) or Public so Eveyrone can Join in
@@ -90,11 +90,11 @@ Required Item "Trigger Word"
 
 ![App Screenshot](https://github.com/MrNiceGuy0903/linkBot/blob/main/Images/Pattern-Runtime.jpg)
 
-#### Step 5: How long would you like the event to last
+#### Step 5: How long would you like the event to last?
 
 ![App Screenshot](https://github.com/MrNiceGuy0903/linkBot/blob/main/Images/Runtime.jpg)
 
-#### Step 6 Confirmation: Ensure the information is correctly setup as you would like
+#### Step 6 Confirmation: Ensure the information is correctly setup as you would like.
 
 ![App Screenshot](https://github.com/MrNiceGuy0903/linkBot/blob/main/Images/Private-Confirmation.jpg)
 
