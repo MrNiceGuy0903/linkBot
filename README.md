@@ -22,41 +22,44 @@ A bot for Hosting Lovense Orgy's And Posting links to control lovense toys in Di
     
 ## Deployment
 
-  - Required Setup steps
-          The First item to setup is the Channel in your server you would like to have links Posted - This is done by using the command "/linkbot-setup-channel-to-post" and selecting the channel in your server from the drop down list
+### Required Setup steps
+#### Setup Channel for Linkbot to Post
+ - using the command "/linkbot-setup-channel-to-post" and selecting the channel in your server from the drop down list
 
-      - Roles That may be mentioned/control the toy
-          The Bot is designed to alert people who are a member of the role that the user allows to control their lovense toy, when a user creates a link to be posted - they will specify what roles are allowed to retrieve their link. For this you will use the command "/linkbot-add-playrole" and select a the Role
-             - a list of roles may by retrieved by using "/linkbot-list-playroles"
-             - an unwated role may be removed by using "/linkbot-remove-playrole"
+#### Setup & edit Roles That may be mentioned/control the toy
+- Use the command "/linkbot-add-playrole" and select a the Role
+- A list of roles may by retrieved by using "/linkbot-list-playroles"
+- An unwated role may be removed by using "/linkbot-remove-playrole"
 
-    - Recomended Setup Steps
-      - setup a History Retrieval Password  - "/Linkbot-set-password"
+### Recomended Setup Steps
+#### setup a History Retrieval Password  
+- "/Linkbot-set-password"
                 Due to the history of abuse of links between people - we have added a history option for administrators- This option is sensitive and requires extra permissions to run, You must be an admin to request the history and provide the password setup in this step
-
-    - Optional Setup Steps
-      - The bot allows you to set a required for Posting a link - This is to allow the server administrator to enforce verification, or limit posters in anyways they so desire.
+#### Optional Setup Steps
+- The bot allows you to set a required for Posting a link - This is to allow the server administrator to enforce verification, or limit posters in anyways they so desire.
                          
 
     
 ## Posting Links
 
-
-  1 "/Droplink" (Named)  And "/Dropanonlink" (Anonymous)
-        Required Items - 
-            "Link" This is the link generated in the lovense app - There is security in this link to ensure the link is pointed to the correct endpoint.
-            "Toy" Choose from a drop down what toy you are putting out to be played with
-            "Role1" Selects a Role that is allowed to grab the link and be mentioned when the user creates the link
-            "Sex" From a dropdown of sex's to choose from to allow the person grabbing the link to know the sex of the person they are playing with
-          Optional Items -
-            "Role 2,3,4" Specifies up to 3 additional roles that will be mentioned and will be allowed to get the link.
-            "Reoccuring" if the link is reocuring it is not removed when the link is claimed
-            "Special_Instructions"  Allows a free form place for someone to put free form instructions to be displayed on the link
+Commands "/Droplink" (Named)  And "/Dropanonlink" (Anonymous)
+#### Required Fields 
+- "Link" This is the link generated in the lovense app - There is security in this link to ensure the link is pointed to the correct endpoint.
+- "Toy" Choose from a drop down what toy you are putting out to be played with
+- "Role1" Selects a Role that is allowed to grab the link and be mentioned when the user creates the link
+- "Sex" From a dropdown of sex's to choose from to allow the person grabbing the link to know the sex of the person they are playing with
+#### Optional Fields -
+- "Role 2,3,4" Specifies up to 3 additional roles that will be mentioned and will be allowed to get the link.
+- "Reoccuring" if the link is reocuring it is not removed when the link is claimed
+- "Special_Instructions"  Allows a free form place for someone to put free form instructions to be displayed on the link
 Anonymous Post:
+
+### Screen shots
+#### Anonymous
 
 ![App Screenshot](https://github.com/MrNiceGuy0903/linkBot/blob/main/Images/Anonymous-Post.jpg)
 
-Named Post:
+#### Named Poster
 
 ![App Screenshot](https://github.com/MrNiceGuy0903/linkBot/blob/main/Images/Named-Post.jpg)
 ## Creating an Event/Orgy
