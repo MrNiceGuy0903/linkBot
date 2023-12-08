@@ -40,7 +40,7 @@ A bot for Hosting Lovense Orgy's And Posting links to control lovense toys in Di
 
     
 ## Posting Links
-```bash
+
 
   1 "/Droplink" (Named)  And "/Dropanonlink" (Anonymous)
         Required Items - 
@@ -60,11 +60,10 @@ Named Post:
 
 ![App Screenshot](https://github.com/MrNiceGuy0903/linkBot/blob/main/Images/Named-Post.jpg)
 ## Creating an Event/Orgy
-```bash
+
 "/create-event"
 Required Item "Trigger Word"
  This is the string of chars that when seen will trigger the Orgy to begin.  Then selection begins
-```
 
 
 Step 1: What Kind of Event would you like to have private (just you) or Public so Eveyrone can Join in
