@@ -22,8 +22,6 @@ A bot for Hosting Lovense Orgy's And Posting links to control lovense toys in Di
     
 ## Deployment
 
-```bash
-
   - Required Setup steps
           The First item to setup is the Channel in your server you would like to have links Posted - This is done by using the command "/linkbot-setup-channel-to-post" and selecting the channel in your server from the drop down list
 
@@ -39,7 +37,7 @@ A bot for Hosting Lovense Orgy's And Posting links to control lovense toys in Di
     - Optional Setup Steps
       - The bot allows you to set a required for Posting a link - This is to allow the server administrator to enforce verification, or limit posters in anyways they so desire.
                          
-```
+
     
 ## Posting Links
 ```bash
