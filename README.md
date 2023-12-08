@@ -8,14 +8,18 @@ A bot for Hosting Lovense Orgy's And Posting links to control lovense toys in Di
 ## Deployment
 
 ```bash
- Install Linkbot by inviting it to you server, this is done in 3 different invites,
+ Install Linkbot by inviting it to you server, this is done in 3 different invites
+```
+
      [!Invite Link 1](https://discord.com/api/oauth2/authorize?client_id=1180169543130300557&permissions=17600776022016&scope=bot)
+   ```bash
        Allows the following permissions - 
           - Manage Events
           - Create Events
           - Send Messages
           - Manage Messages
           - Attach Files
+
   [!Invite Link 2](https://discord.com/api/oauth2/authorize?client_id=1180169543130300557&permissions=17600776153088&scope=bot)
        Allows the following permissions - 
           - Manage Events
