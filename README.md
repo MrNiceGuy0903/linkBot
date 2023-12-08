@@ -52,7 +52,6 @@ A bot for Hosting Lovense Orgy's And Posting links to control lovense toys in Di
             "Role 2,3,4" Specifies up to 3 additional roles that will be mentioned and will be allowed to get the link.
             "Reoccuring" if the link is reocuring it is not removed when the link is claimed
             "Special_Instructions"  Allows a free form place for someone to put free form instructions to be displayed on the link
-```
 Anonymous Post:
 
 ![App Screenshot](https://github.com/MrNiceGuy0903/linkBot/blob/main/Images/Anonymous-Post.jpg)
