@@ -34,6 +34,7 @@ Invite Link 2 - https://discord.com/api/oauth2/authorize?client_id=1180169543130
 ## Deployment
 
 ```bash
+
  Install Linkbot by inviting it to you server, this is done in 3 different invites,
      Invite Link 1 - https://discord.com/api/oauth2/authorize?client_id=1180169543130300557&permissions=17600776022016&scope=bot 
        Allows the following permissions - 
@@ -69,7 +70,7 @@ Invite Link 2 - https://discord.com/api/oauth2/authorize?client_id=1180169543130
             "Role 2,3,4" Specifies up to 3 additional roles that will be mentioned and will be allowed to get the link.
             "Reoccuring" if the link is reocuring it is not removed when the link is claimed
             "Special_Instructions"  Allows a free form place for someone to put free form instructions to be displayed on the link
-'''
+```
 Anonymous Post:
 
 ![App Screenshot](https://github.com/MrNiceGuy0903/linkBot/blob/main/Images/Anonymous-Post.jpg)
