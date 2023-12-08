@@ -69,39 +69,39 @@ Required Item "Trigger Word"
  This is the string of chars that when seen will trigger the Orgy to begin.  Then selection begins
 
 
-Step 1: What Kind of Event would you like to have private (just you) or Public so Eveyrone can Join in
+#### Step 1: What Kind of Event would you like to have private (just you) or Public so Eveyrone can Join in
 
 ![App Screenshot](https://github.com/MrNiceGuy0903/linkBot/blob/main/Images/Start.jpg)
 
-Step 2: Would you like a Constant Vibration or A lovense pattern
+#### Step 2: Would you like a Constant Vibration or A lovense pattern
 
 ![App Screenshot](https://github.com/MrNiceGuy0903/linkBot/blob/main/Images/Pattern-Vibe.jpg)
 
-Step 3: If you choose a Pattern, What Pattern would you like
+#### Step 3: If you choose a Pattern, What Pattern would you like
 
 ![App Screenshot](https://github.com/MrNiceGuy0903/linkBot/blob/main/Images/Choose-Pattern.jpg)
 
 
-Step 3: if you Choose Vibes How Strong?
+#### Step 3: if you Choose Vibes How Strong?
 
 ![App Screenshot](https://github.com/MrNiceGuy0903/linkBot/blob/main/Images/vibes.jpg)
 
-Step 4: How long would you like to vibe when someone says the Keyword
+#### Step 4: How long would you like to vibe when someone says the Keyword
 
 ![App Screenshot](https://github.com/MrNiceGuy0903/linkBot/blob/main/Images/Pattern-Runtime.jpg)
 
-Step 5: How long would you like the event to last
+#### Step 5: How long would you like the event to last
 
 ![App Screenshot](https://github.com/MrNiceGuy0903/linkBot/blob/main/Images/Runtime.jpg)
 
-Step 6 Confirmation: Ensure the information is correctly setup as you would like
+#### Step 6 Confirmation: Ensure the information is correctly setup as you would like
 
 ![App Screenshot](https://github.com/MrNiceGuy0903/linkBot/blob/main/Images/Private-Confirmation.jpg)
 
-Step 7: Event Created
-Private:
+#### Step 7: Event Created
+##### Private:
 ![App Screenshot](https://github.com/MrNiceGuy0903/linkBot/blob/main/Images/Private-Event.jpg)
-Public:
+##### Public:
 ![App Screenshot](https://github.com/MrNiceGuy0903/linkBot/blob/main/Images/Public-Event.jpg)
 ## Support
 
