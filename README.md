@@ -50,7 +50,7 @@ Commands "/Droplink" (Named)  And "/Dropanonlink" (Anonymous)
 - "Sex" From a dropdown of sex's to choose from to allow the person grabbing the link to know the sex of the person they are playing with
 #### Optional Fields -
 - "Role 2,3,4" Specifies up to 3 additional roles that will be mentioned and will be allowed to get the link.
-- "Reoccuring" if the link is reocuring it is not removed when the link is claimed
+- "Reoccurring" if the link is reoccurring it is not removed when the link is claimed
 - "Special_Instructions"  Allows a free form place for someone to put free form instructions to be displayed on the link
 Anonymous Post:
 
