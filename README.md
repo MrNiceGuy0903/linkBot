@@ -24,27 +24,21 @@ A bot for Hosting Lovense Orgy's And Posting links to control lovense toys in Di
 
 ```bash
 
- Install Linkbot by inviting it to you server, this is done in 3 different invites,
-     Invite Link 1 - https://discord.com/api/oauth2/authorize?client_id=1180169543130300557&permissions=17600776022016&scope=bot 
-       Allows the following permissions - 
-          - Manage Events
-          - Create Events
-          - Send Messages
-          - Manage Messages
-          - Attach Files
-Invite Link 2 - https://discord.com/api/oauth2/authorize?client_id=1180169543130300557&permissions=17600776153088&scope=bot
-       Allows the following permissions - 
-          - Manage Events
-          - Create Events
-          - Send Messages
-          - Manage Messages
-          - Attach Files
-          - Mention @Everyone (This is only needed if you want the bot to ping everyone when a link is dropped that everyone can use
+  - Required Setup steps
+          The First item to setup is the Channel in your server you would like to have links Posted - This is done by using the command "/linkbot-setup-channel-to-post" and selecting the channel in your server from the drop down list
 
-Invite Link 2 - https://discord.com/api/oauth2/authorize?client_id=1180169543130300557&permissions=0&scope=bot
-          This Link Allows No default Permissions- Most secure but also requires you to setup all the permissions manually
+      - Roles That may be mentioned/control the toy
+          The Bot is designed to alert people who are a member of the role that the user allows to control their lovense toy, when a user creates a link to be posted - they will specify what roles are allowed to retrieve their link. For this you will use the command "/linkbot-add-playrole" and select a the Role
+             - a list of roles may by retrieved by using "/linkbot-list-playroles"
+             - an unwated role may be removed by using "/linkbot-remove-playrole"
 
+    - Recomended Setup Steps
+      - setup a History Retrieval Password  - "/Linkbot-set-password"
+                Due to the history of abuse of links between people - we have added a history option for administrators- This option is sensitive and requires extra permissions to run, You must be an admin to request the history and provide the password setup in this step
 
+    - Optional Setup Steps
+      - The bot allows you to set a required for Posting a link - This is to allow the server administrator to enforce verification, or limit posters in anyways they so desire.
+                         
 ```
     
 ## Posting Links
