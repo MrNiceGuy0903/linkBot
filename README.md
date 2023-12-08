@@ -7,9 +7,8 @@ A bot for Hosting Lovense Orgy's And Posting links to control lovense toys in Di
 
 ## Deployment
 
-```bash
- Install Linkbot by inviting it to you server, this is done in 3 different invites
 
+ Install Linkbot by inviting it to you server, this is done in 3 different invites
 [![Standard_install](https://img.shields.io/badge/Link_Bot-Standard_Install-8A2BE2)](https://discord.com/api/oauth2/authorize?client_id=1180169543130300557&permissions=17600776022016&scope=bot)
 
        Allows the following permissions - 
@@ -31,8 +30,6 @@ A bot for Hosting Lovense Orgy's And Posting links to control lovense toys in Di
  [!Invite Link 3](https://discord.com/api/oauth2/authorize?client_id=1180169543130300557&permissions=0&scope=bot)
           This Link Allows No default Permissions- Most secure but also requires you to setup all the permissions manually
 
-
-```
     
 ## Deployment
 
