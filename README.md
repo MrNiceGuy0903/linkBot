@@ -13,10 +13,10 @@ A bot for Hosting Lovense Orgy's And Posting links to control lovense toys in Di
 [![Standard_install](https://img.shields.io/badge/Link_Bot-Standard_Install-8A2BE2)](https://discord.com/api/oauth2/authorize?client_id=1180169543130300557&permissions=17600776022016&scope=bot)
        Allows the following permissions: Manage Events, Create Events, Send Messages, Manage Messages, Attach Files
 
-[![Standard_install](https://img.shields.io/badge/Link_Bot-Add_Mention @everyone-8A2BE2)](https://discord.com/api/oauth2/authorize?client_id=1180169543130300557&permissions=17600776153088&scope=bot)
+[![Standard_install](https://img.shields.io/badge/Link_Bot-Add_Mention_@everyone-8A2BE2)](https://discord.com/api/oauth2/authorize?client_id=1180169543130300557&permissions=17600776153088&scope=bot)
        Allows the following permissions: Manage Events, Create Events, Send Messages, Manage Messages, Attach Files, Mention @Everyone
 
-[![Standard_install](https://img.shields.io/badge/Link_Bot-No Permission Install-8A2BE2)](https://discord.com/api/oauth2/authorize?client_id=1180169543130300557&permissions=0&scope=bot)
+[![Standard_install](https://img.shields.io/badge/Link_Bot-No_Permission_Install-8A2BE2)](https://discord.com/api/oauth2/authorize?client_id=1180169543130300557&permissions=0&scope=bot)
           This Link Allows No default Permissions- 
 
     
