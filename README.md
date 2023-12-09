@@ -24,16 +24,16 @@ A bot for Hosting Lovense Orgy's And Posting links to control lovense toys in Di
 
 ### Required Setup steps
 #### Setup Channel for Linkbot to Post
- - using the command "/linkbot-setup-channel-to-post" and selecting the channel in your server from the drop down list
+ - using the command ```/linkbot-setup-channel-to-post``` and selecting the channel in your server from the drop down list
 
 #### Setup & edit Roles That may be mentioned/control the toy
-- Use the command "/linkbot-add-playrole" and select a Role
-- A list of roles may by retrieved by using "/linkbot-list-playroles"
-- An unwanted role may be removed by using "/linkbot-remove-playrole"
+- Use the command ```/linkbot-add-playrole``` and select a Role
+- A list of roles may by retrieved by using ```/linkbot-list-playroles```
+- An unwanted role may be removed by using ```/linkbot-remove-playrole```
 
 ### Recomended Setup Steps
 #### setup a History Retrieval Password  
-- "/Linkbot-set-password"
+- ```/Linkbot-set-password```
                 Due to the history of abuse of links between people - we have added a history option for administrators- This option is sensitive and requires extra permissions to run, You must be an admin to request the history and provide the password setup in this step
 #### Optional Setup Steps
 - The bot allows you to set a required for Posting a link - This is to allow the server administrator to enforce verification, or limit posters in any way they so desire.
@@ -42,7 +42,7 @@ A bot for Hosting Lovense Orgy's And Posting links to control lovense toys in Di
     
 ## Posting Links
 
-Commands "/Droplink" (Named)  And "/Dropanonlink" (Anonymous)
+Commands ```/Droplink``` (Named)  And ```/Dropanonlink``` (Anonymous)
 #### Required Fields 
 - "Link" This is the link generated in the lovense app - There is security in this link to ensure the link is pointed to the correct endpoint.
 - "Toy" Choose from a drop down what toy you are putting out to be played with
@@ -64,7 +64,7 @@ Anonymous Post:
 ![App Screenshot](https://github.com/MrNiceGuy0903/linkBot/blob/main/Images/Named-Post.jpg)
 ## Creating an Event/Orgy
 
-"/create-event"
+```/create-event```
 Required Item "Trigger Word"
  This is the string of characters that when seen will trigger the Orgy to begin.  Then selection begins
 
