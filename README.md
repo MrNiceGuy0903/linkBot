@@ -4,6 +4,7 @@
 A bot for Hosting Lovense Orgy's And Posting links to control lovense toys in Discord Servers while enableing the Administrator of the server to police links with enforcement of permissions on who can connect to the link Utilizing the Lovense Standard API
 ## Updates
 - Linkbot now has a blocklist option!
+- Linkbot has a new option for Re-occuring links! 
 ## Deployment
 
 
